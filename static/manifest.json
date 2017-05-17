@@ -1,6 +1,6 @@
 {
-  "name": "cropcat2",
-  "short_name": "cropcat2",
+  "name": "cropcat",
+  "short_name": "cropcat",
   "icons": [
       {
           "src": "/static/img/icons/android-chrome-192x192.png",
