@@ -1,6 +1,6 @@
 {
-  "name": "pwa2",
-  "short_name": "pwa2",
+  "name": "cropcat2",
+  "short_name": "cropcat2",
   "icons": [
       {
           "src": "/static/img/icons/android-chrome-192x192.png",
